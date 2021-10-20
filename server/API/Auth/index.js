@@ -101,8 +101,6 @@ Router.get("/google/callback", passport.authenticate("google",{failureRedirect: 
 export default Router;
 
 //Aradhana
-
-
 //Statics and methods: Class and objects concept
 //UserModel.ourStatic()
 //checkUserByEmail.ourMethods()
